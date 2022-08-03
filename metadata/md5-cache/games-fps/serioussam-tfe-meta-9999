@@ -6,4 +6,4 @@ IUSE=vulkan
 LICENSE=metapackage
 RDEPEND=games-fps/serioussam-alpharemake games-fps/serioussam-oddworld games-fps/serioussam-pefe2q games-fps/serioussam-tfe-data games-fps/serioussam-tfe-xplus games-fps/serioussam-tower vulkan? ( =games-fps/serioussam-tfe-vk-9999 ) !vulkan? ( =games-fps/serioussam-tfe-9999 )
 SLOT=0
-_md5_=39f9624959baced515bfaebb8da6ca95
+_md5_=5225295174241a6915aaf1f389709025
