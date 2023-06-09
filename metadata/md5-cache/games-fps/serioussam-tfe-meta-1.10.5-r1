@@ -6,7 +6,7 @@ INHERIT=eapi7-ver
 IUSE=vulkan
 KEYWORDS=~amd64 ~x86 ~arm64
 LICENSE=metapackage
-RDEPEND=games-fps/serioussam-alpharemake games-fps/serioussam-oddworld games-fps/serioussam-pefe2q games-fps/serioussam-tfe-data games-fps/serioussam-tfe-xplus games-fps/serioussam-tower vulkan? ( =games-fps/serioussam-tfe-vk-1.10.5 ) !vulkan? ( =games-fps/serioussam-tfe-1.10.5 )
+RDEPEND=games-fps/serioussam-alpharemake games-fps/serioussam-oddworld games-fps/serioussam-pefe2q games-fps/serioussam-tfe-data games-fps/serioussam-tfe-xplus games-fps/serioussam-tower vulkan? ( =games-fps/serioussam-tfe-vk-1.10.5-r1 ) !vulkan? ( =games-fps/serioussam-tfe-1.10.5-t1 )
 SLOT=0
 _eclasses_=eapi7-ver	1a0a60ad07c8b32d2faba2d085dc0f24
-_md5_=42a841234c389f21e53f6802091c210f
+_md5_=6b677aec330906dd4707f3221bcc5a28
