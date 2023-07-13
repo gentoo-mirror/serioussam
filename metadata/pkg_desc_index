@@ -6,14 +6,14 @@ games-fps/serioussam-pefe2q 1.0: Serious Sam Classic Parse Error FE Modification
 games-fps/serioussam-pese2q 1.0: Serious Sam Classic Parse Error SE Modification
 games-fps/serioussam-st8vi 1.7.1: Serious Sam Classic ST8VI Modification
 games-fps/serioussam-st8vipe 1.7.1: Serious Sam Classic ST8VIPE Modification
-games-fps/serioussam-tfe 1.10.4-r1 1.10.5-r2 9999: Linux port of Serious Sam Classic The First Encounter
+games-fps/serioussam-tfe 1.10.4-r2 1.10.5-r3 9999: Linux port of Serious Sam Classic The First Encounter
 games-fps/serioussam-tfe-data 1.5-r1: Croteam's Serious Sam Classic The First Encounter ... the data files
-games-fps/serioussam-tfe-meta 1.10.4-r1 1.10.5-r2 9999: Meta package for Serious Sam Classic and Mods
-games-fps/serioussam-tfe-vk 1.10.4-r1 1.10.5-r2 9999: Linux port of Serious Sam Classic The First Encounter with Vulkan support
-games-fps/serioussam-tfe-xplus 1.10.5: Serious Sam Classic The First Encounter XPLUS Modification
+games-fps/serioussam-tfe-meta 1.10.4-r2 1.10.5-r3 9999: Meta package for Serious Sam Classic and Mods
+games-fps/serioussam-tfe-vk 1.10.4-r2 1.10.5-r3 9999: Linux port of Serious Sam Classic The First Encounter with Vulkan support
+games-fps/serioussam-tfe-xplus 1.10.5-r1: Serious Sam Classic The First Encounter XPLUS Modification
 games-fps/serioussam-tower 1.00: Serious Sam Classic Nightmare Tower Modification
-games-fps/serioussam-tse 1.10.4-r1 1.10.5-r2 9999: Linux port of Serious Sam Classic The Second Encounter
+games-fps/serioussam-tse 1.10.4-r2 1.10.5-r3 9999: Linux port of Serious Sam Classic The Second Encounter
 games-fps/serioussam-tse-data 1.7-r1: Croteam's Serious Sam Classic The Second Encounter ... the data files
-games-fps/serioussam-tse-meta 1.10.4-r1 1.10.5-r2 9999: Meta package for Serious Sam Classic and Mods
-games-fps/serioussam-tse-vk 1.10.4-r1 1.10.5-r2 9999: Linux port of Serious Sam Classic The Second Encounter with Vulkan support
-games-fps/serioussam-tse-xplus 1.10.5: Serious Sam Classic The Second Encounter XPLUS Modification
+games-fps/serioussam-tse-meta 1.10.4-r2 1.10.5-r3 9999: Meta package for Serious Sam Classic and Mods
+games-fps/serioussam-tse-vk 1.10.4-r2 1.10.5-r3 9999: Linux port of Serious Sam Classic The Second Encounter with Vulkan support
+games-fps/serioussam-tse-xplus 1.10.5-r1: Serious Sam Classic The Second Encounter XPLUS Modification
