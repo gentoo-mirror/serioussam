@@ -1,9 +1,9 @@
 DEFINED_PHASES=-
 DESCRIPTION=Meta package for Serious Sam Classic and Mods
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/tx00100xt
 IUSE=vulkan
 LICENSE=metapackage
 RDEPEND=games-fps/serioussam-alpharemake games-fps/serioussam-oddworld games-fps/serioussam-pefe2q games-fps/serioussam-tfe-data games-fps/serioussam-tfe-xplus games-fps/serioussam-tower vulkan? ( =games-fps/serioussam-tfe-vk-9999 ) !vulkan? ( =games-fps/serioussam-tfe-9999 )
 SLOT=0
-_md5_=5225295174241a6915aaf1f389709025
+_md5_=30513ff11cd9e89cef7a2d33bf170402

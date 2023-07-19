@@ -1,9 +1,9 @@
 DEFINED_PHASES=-
 DESCRIPTION=Meta package for Serious Sam Classic and Mods
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/tx00100xt
 IUSE=vulkan
 LICENSE=metapackage
 RDEPEND=games-fps/serioussam-dancesworld games-fps/serioussam-pese2q games-fps/serioussam-tse-data games-fps/serioussam-tse-xplus games-fps/serioussam-hno games-fps/serioussam-st8vi games-fps/serioussam-st8vipe games-fps/serioussam-brightisland-mappack games-fps/serioussam-nextencounter-mappack games-fps/serioussam-rakanishu-mappacks vulkan? ( =games-fps/serioussam-tse-vk-9999 ) !vulkan? ( =games-fps/serioussam-tse-9999 )
 SLOT=0
-_md5_=2f98d4bfd05a8e0154e1342105a50eb7
+_md5_=d60b3a683e78d30ea26cada406e80cb0

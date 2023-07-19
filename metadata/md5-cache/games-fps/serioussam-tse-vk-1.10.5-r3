@@ -6,11 +6,11 @@ EAPI=7
 HOMEPAGE=https://github.com/tx00100xt/SeriousSamClassic-VK
 INHERIT=cmake desktop
 IUSE=alsa pipewire
-KEYWORDS=~amd64 ~x86 ~arm64
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=GPL-2
 RDEPEND=!games-fps/serioussam-tse media-libs/libsdl2[video,joystick,opengl,vulkan] media-libs/libvorbis sys-libs/zlib sys-devel/flex sys-devel/bison dev-util/vulkan-headers media-libs/vulkan-layers sys-devel/bison alsa? ( >=media-libs/libsdl2-2.0.6[alsa,sound] ) pipewire? ( >=media-libs/libsdl2-2.0.6[pipewire,sound] )
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://github.com/tx00100xt/SeriousSamClassic-VK/archive/refs/tags/v1.10.5.tar.gz -> serioussam-tse-vk-1.10.5.tar.gz
 _eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	ad475baa777c9978fa035216c8264a10	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	f3010c780f65d1bb5aea15a9af1adc9c	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	aa1d1fa7be37663d48162ac963b22692	desktop	021728fdc1b03b36357dbc89489e0f0d
-_md5_=782c4454b1dbafb063c58c97d3841915
+_md5_=8b6343a88a1cd9e7cd7afe880d18ebec
