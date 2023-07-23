@@ -1,5 +1,5 @@
 DEFINED_PHASES=install postinst setup unpack
-DEPEND=|| ( games-fps/serioussam-tse-vk games-fps/serioussam-tse )
+DEPEND=|| ( games-fps/serioussam-vk games-fps/serioussam )
 DESCRIPTION=Croteam's Serious Sam Classic The Second Encounter ... the data files
 EAPI=7
 HOMEPAGE=http://www.croteam.com/ https://store.steampowered.com/app/41060/Serious_Sam_Classic_The_Second_Encounter/
@@ -11,4 +11,4 @@ PROPERTIES=interactive
 SLOT=0
 SRC_URI=https://github.com/tx00100xt/serioussam-mods/raw/main/Patches/Patch_1.07_SE.tar.xz
 _eclasses_=portability	a74d533f258f1f435be71312558c12f9	cdrom	e2d6b737cd384c6064917aee0a82b6e1	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	aa6a4e924009232d8b78b31e932c30b5
-_md5_=ed220dd99f6d1a454d9c05da2a55764c
+_md5_=56767a7e854702da78757835b6662029
