@@ -15,4 +15,4 @@ games-fps/serioussam-tower 1.00: Serious Sam Classic Nightmare Tower Modificatio
 games-fps/serioussam-tse-data 1.7-r1: Croteam's Serious Sam Classic The Second Encounter ... the data files
 games-fps/serioussam-tse-meta 1.10.5 9999: Meta package for Serious Sam Classic and Mods
 games-fps/serioussam-vk 1.10.5 9999: Linux port of Serious Sam Classic with Vulkan support
-games-util/seriousrunner 1.0: Serious Runner program that loads and runs content created by users
+games-util/seriousrunner 1.1: Serious Runner program that loads and runs content created by users
