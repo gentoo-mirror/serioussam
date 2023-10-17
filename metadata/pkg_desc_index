@@ -1,4 +1,4 @@
-games-fps/serioussam 1.10.5 9999: Linux port of Serious Sam Classic
+games-fps/serioussam 1.10.6 9999: Linux port of Serious Sam Classic
 games-fps/serioussam-alpharemake 1.5: Serious Sam Classic The First Encounter Alpha Remake Modification
 games-fps/serioussam-brightisland-mappack 1.1: Serious Sam Classic Bright Island Mappack
 games-fps/serioussam-dancesworld 2.0: Serious Sam Classic Dances World Modification
@@ -14,5 +14,5 @@ games-fps/serioussam-tfe-meta 1.10.5 9999: Meta package for Serious Sam Classic 
 games-fps/serioussam-tower 1.00: Serious Sam Classic Nightmare Tower Modification
 games-fps/serioussam-tse-data 1.7-r1: Croteam's Serious Sam Classic The Second Encounter ... the data files
 games-fps/serioussam-tse-meta 1.10.5 9999: Meta package for Serious Sam Classic and Mods
-games-fps/serioussam-vk 1.10.5 9999: Linux port of Serious Sam Classic with Vulkan support
+games-fps/serioussam-vk 1.10.6 9999: Linux port of Serious Sam Classic with Vulkan support
 games-util/seriousrunner 1.1.1-r1: Serious Runner program that loads and runs content created by users
