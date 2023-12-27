@@ -2,12 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-games-fps/serioussam:alsa - Enable support ALSA sound.
-games-fps/serioussam:pipewire - Enable support for pipewire.
-games-fps/serioussam:xplus - ABuild and install XPLUS modification.
-games-fps/serioussam-parseerror:xplus - Additionally build and install a modification with weapons from XPLUS.
-games-fps/serioussam-tfe-data:ru - Enable support Tussian language.
-games-fps/serioussam-tse-data:ru - Enable support Tussian language.
-games-fps/serioussam-vk:alsa - Enable support ALSA sound.
-games-fps/serioussam-vk:pipewire - Enable support for pipewire.
-games-fps/serioussam-vk:xplus - ABuild and install XPLUS modification.

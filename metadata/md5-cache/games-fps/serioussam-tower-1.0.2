@@ -1,15 +1,14 @@
 BDEPEND=virtual/pkgconfig app-alternatives/ninja >=dev-util/cmake-3.20.5
 DEFINED_PHASES=compile configure install postinst prepare test
-DEPEND=|| ( games-fps/serioussam-vk games-fps/serioussam )
+DEPEND=games-fps/serioussam
 DESCRIPTION=Serious Sam Classic Nightmare Tower Modification
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/tx00100xt/SE1-TFE-Tower
 INHERIT=cmake
-KEYWORDS=~amd64 ~arm64 ~x86
-LICENSE=GPL-2
-RDEPEND=|| ( games-fps/serioussam-vk games-fps/serioussam )
-RESTRICT=bindist mirror
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2 BSD ZLIB
+RDEPEND=games-fps/serioussam
 SLOT=0
 SRC_URI=https://github.com/tx00100xt/SE1-TFE-Tower/archive/refs/tags/v1.0.2.tar.gz -> serioussam-tower-1.0.2.tar.gz https://github.com/tx00100xt/serioussam-mods/raw/main/SamTFE-Tower/SamTFE-Tower.tar.xz
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	78cf3cc2d5572fddf5e5e10c70f7c81a	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	c8951c1dfcc1d43e3f967f61fd0ec59c	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	0f2e0c197fad0312f3c4765c9cf36271
-_md5_=8aba76e25dc14215860f940e4a1227b4
+_md5_=c10c0208e0e00fbd6e8210f8a8c2f8ba
