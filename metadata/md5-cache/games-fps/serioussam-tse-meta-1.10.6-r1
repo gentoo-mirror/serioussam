@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DEPEND=games-fps/serioussam-dancesworld games-fps/serioussam-parseerror games-fps/serioussam-hno games-fps/serioussam-xplus games-fps/serioussam-sequel games-fps/serioussam-st8vi games-fps/serioussam-st8vipe games-fps/serioussam-brightisland-mappack games-fps/serioussam-nextencounter-mappack games-fps/serioussam-rakanishu-mappacks games-fps/serioussam
+DESCRIPTION=Meta package for Serious Sam: The Second Encounter addons
+EAPI=7
+HOMEPAGE=https://github.com/tx00100xt
+KEYWORDS=~amd64 ~x86
+LICENSE=metapackage
+SLOT=0
+_md5_=e3d132f877a5a18aa0153d8176978df9

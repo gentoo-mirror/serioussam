@@ -11,6 +11,6 @@ games-fps/serioussam-st8vi 1.7.2: Serious Sam Classic ST8VI Modification
 games-fps/serioussam-st8vipe 1.7.2: Serious Sam Classic ST8VIPE Modification
 games-fps/serioussam-tfe-meta 1.10.6: Meta package for Serious Sam: The First Encounter addons
 games-fps/serioussam-tower 1.0.2: Serious Sam Classic Nightmare Tower Modification
-games-fps/serioussam-tse-meta 1.10.6: Meta package for Serious Sam: The Second Encounter addons
+games-fps/serioussam-tse-meta 1.10.6 1.10.6-r1: Meta package for Serious Sam: The Second Encounter addons
 games-fps/serioussam-xplus 1.10.6: XPLUS modificarion for linux port of Serious Sam
 games-util/seriousrunner 1.1.2: Serious Runner program that loads and runs content created by users
