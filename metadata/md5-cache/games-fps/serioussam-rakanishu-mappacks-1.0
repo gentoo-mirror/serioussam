@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=games-fps/serioussam
 SLOT=0
 SRC_URI=https://archive.org/download/se-coop-persepolis-and-teotihuacan-map-pack-v-2.020/SE_COOP_JacobsRest_ForModsEdition.gro https://archive.org/download/se-coop-persepolis-and-teotihuacan-map-pack-v-2.020/SE_COOP_Persepolis_Map_Pack_V2.020.gro https://archive.org/download/se-coop-persepolis-and-teotihuacan-map-pack-v-2.020/SE_COOP_Teotihuacan_Map_Pack_V2.020.gro
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	13d8d65b19f96f31b38c39b57419304e
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
 _md5_=401a6895d2962a38765762baf0debbff
